@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "row_accent",
+    "type": "har",
+    "deviceTypes": [
+      "default"
+    ]
+  }
+}
