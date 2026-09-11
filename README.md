@@ -14,16 +14,6 @@
 ohpm install row-accent
 ```
 
-本地源码依赖：
-
-```json5
-{
-  "dependencies": {
-    "row-accent": "file:../row-accent",
-    "theme": "file:../theme"
-  }
-}
-```
 
 ## 正常使用样式
 
