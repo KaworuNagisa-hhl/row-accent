@@ -1,6 +1,6 @@
 {
   "modelVersion": "6.0.2",
-  "name": "row-accent",
+  "name": "@kaworunagisa_hhl/row-accent",
   "version": "1.0.3",
   "description": "OpenHarmony/HarmonyOS ArkUI like-ios 强调行容器组件，适合带色条提示、状态聚合与列表重点信息展示。提供 homepage、example 示例目录与清晰的 README 使用说明。",
   "main": "Index.ets",
@@ -13,10 +13,14 @@
     "HarmonyOS",
     "ArkUI",
     "like-ios",
-    "frosted-glass",
-    "component"
+    "ios-like",
+    "kaworunagisa_hhl",
+    "row",
+    "accent",
+    "list",
+    "status"
   ],
   "dependencies": {
-    "theme": "file:../theme"
+    "@kaworunagisa_hhl/theme": "file:../theme"
   }
 }
