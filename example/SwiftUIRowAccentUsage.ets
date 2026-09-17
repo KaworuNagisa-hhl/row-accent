@@ -1,4 +1,4 @@
-import { SwiftUIRowAccent } from '@kaworunagisa_hhl/row-accent'
+import { SwiftUIRowAccent } from 'row-accent'
 
 @Component
 export struct SwiftUIRowAccentUsage {
